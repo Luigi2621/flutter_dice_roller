@@ -1,4 +1,4 @@
-# basic_topics
+# Dice Roller app
 
 A dice roller app project (finished)
 
