@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="basic_topics"
+        android:label="Roll a die/Lanzar un dado"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
